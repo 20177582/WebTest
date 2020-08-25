@@ -1,0 +1,72 @@
+{
+  "id": "2027165",
+  "name": "QHQ1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16736214",
+      "name": "icon_arrow down",
+      "font_class": "icon_arrowdown",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "16736215",
+      "name": "icon_arrow up",
+      "font_class": "icon_arrowup",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "16744801",
+      "name": "icon_upload",
+      "font_class": "icon_upload",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "16745626",
+      "name": "icon_close",
+      "font_class": "icon_close",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "16745627",
+      "name": "icon_refresh",
+      "font_class": "icon_refresh",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "14163874",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "14163754",
+      "name": "扫码",
+      "font_class": "saoma",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "14163784",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "14163863",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    }
+  ]
+}
